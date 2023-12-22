@@ -1,28 +1,13 @@
 {
   "sections": {
     "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        }
-        
-      }
+      "type": "image-banner"     
       
     }
     
   },
 
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "image_banner"    
   ]
 }
